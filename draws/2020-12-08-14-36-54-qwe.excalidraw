@@ -2,7 +2,29 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://logseq.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "8tPTipLLvan3oNUvaZRml",
+      "type": "rectangle",
+      "x": 493.87109375,
+      "y": 184.70703125,
+      "width": 228.67578125,
+      "height": 133.12109375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1076018788,
+      "version": 13,
+      "versionNonce": 2030150500,
+      "isDeleted": false
+    }
+  ],
   "appState": {
     "viewBackgroundColor": "#FFF",
     "gridSize": null
